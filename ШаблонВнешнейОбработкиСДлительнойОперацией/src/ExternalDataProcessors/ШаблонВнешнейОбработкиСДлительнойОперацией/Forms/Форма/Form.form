@@ -69,120 +69,13 @@
     <main>true</main>
   </attributes>
   <attributes>
-    <name>АдресРезультата</name>
+    <name>СвойстваОбработки</name>
     <title>
       <key>ru</key>
-      <value>Адрес временного хранилища, в которое помещается результат выполнения длительной операции</value>
+      <value>Свойства обработки</value>
     </title>
-    <id>2</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ДополнительнаяОбработкаСсылка</name>
-    <title>
-      <key>ru</key>
-      <value>Ссылка на элемент справочника БСП ДополнительныеОтчетыИОбработки</value>
-    </title>
-    <id>3</id>
+    <id>11</id>
     <valueType/>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ИмяВременногоФайлаОбработки</name>
-    <title>
-      <key>ru</key>
-      <value>Имя временного файла обработки в контексте сервера</value>
-    </title>
-    <id>4</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ЭтоДополнительнаяОбработка</name>
-    <title>
-      <key>ru</key>
-      <value>Признак, что обработка подключена с помощью механизма БСП</value>
-    </title>
-    <id>5</id>
-    <valueType>
-      <types>Boolean</types>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>ИспользуемоеИмяФайла</name>
-    <title>
-      <key>ru</key>
-      <value>Полное имя файла обработки на сервере</value>
-    </title>
-    <id>6</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>АдресВнешнейОбработки</name>
-    <title>
-      <key>ru</key>
-      <value>Адрес во временном хранилище внешней обработки</value>
-    </title>
-    <id>7</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-  </attributes>
-  <attributes>
-    <name>АдресСлужебныхПараметров</name>
-    <title>
-      <key>ru</key>
-      <value>Адрес служебных параметров</value>
-    </title>
-    <id>8</id>
-    <valueType>
-      <types>String</types>
-      <stringQualifiers/>
-    </valueType>
     <view>
       <common>true</common>
     </view>
