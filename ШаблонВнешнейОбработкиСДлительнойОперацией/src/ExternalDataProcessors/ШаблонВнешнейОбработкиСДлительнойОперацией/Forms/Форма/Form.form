@@ -69,13 +69,31 @@
     <main>true</main>
   </attributes>
   <attributes>
-    <name>СвойстваОбработки</name>
+    <name>_СвойстваОбработки</name>
     <title>
       <key>ru</key>
       <value>Свойства обработки</value>
     </title>
     <id>11</id>
     <valueType/>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>АдресРезультата</name>
+    <title>
+      <key>ru</key>
+      <value>Адрес результата</value>
+    </title>
+    <id>12</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
     <view>
       <common>true</common>
     </view>
